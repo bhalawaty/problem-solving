@@ -10,10 +10,10 @@
 
 
 int main() {
-    int dFenceHigh=0;
-    int iFriendsNumber=0;
-    int friendsHigh=0;
-    int ans=0;
+    int dFenceHigh = 0;
+    int iFriendsNumber = 0;
+    int friendsHigh = 0;
+    int ans = 0;
     // insert code here...
     std::cin>>iFriendsNumber>>dFenceHigh;
 
